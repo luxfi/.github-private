@@ -13,4 +13,8 @@ Increasing economic freedom through quantum safety and decentralized access to g
 
 🧙 Wizards, welcome.
 
-🦾 Roadmap: https://github.com/orgs/luxdefi/projects/1
+🦾 Help build the future of finance:
+
+- [Board](https://github.com/orgs/luxdefi/projects/1/views/2)
+- [Tasks](https://github.com/orgs/luxdefi/projects/1/views/1)
+- [Roadmap](https://github.com/orgs/luxdefi/projects/1/views/4)
