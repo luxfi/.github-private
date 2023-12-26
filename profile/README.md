@@ -7,7 +7,29 @@
   </p>
 </h3>
 
-🌈 Get involved by participating in development, [provide feedback and suggestions](mailto:hi@lux.partners), or contribute to our [open source projects](https://github.com/luxdefi/):
+At Lux Partners, we champion economic freedom through quantum-safe, private access to global assets. Our team, a fusion of experts in finance and cutting-edge technology, relentlessly pushes boundaries to revolutionize asset management.
+
+Why support our open source work?
+
+    Innovative Leadership: We're redefining financial technology with quantum-safe solutions.
+    Open-Source Pioneers: Our contributions, from Lux AI to Lux Network, are reshaping fintech.
+    Impactful Collaboration: Your sponsorship fuels groundbreaking projects and gains you visibility in the fintech realm.
+
+Get Involved:
+
+    Contribute: Dive into our open-source projects on GitHub. Your code, ideas, and feedback drive innovation.
+    Engage with Our Community: Explore resources like Lux Finance Documentation and Lux Governance.
+    Clone & Innovate: Start with our ecosystem [on GitHub](https://github.com/luxdefi).
+
+Connect & Amplify:
+
+    Star & Fork on GitHub: Show your support and stay updated with our latest innovations.
+    Follow Us: Stay connected on Facebook, LinkedIn, and GitHub.
+    Spread the Word: Share our vision and projects with your network.
+
+Join us in crafting a future where technology empowers economic freedom. Your engagement not only propels our mission but also places you at the heart of financial technology's evolution. Be part of this transformative journey with Lux Partners.
+
+ Get involved by participating in development, [provide feedback and suggestions](mailto:hi@lux.partners), or contribute to our [open source projects](https://github.com/luxdefi/):
 - [Board](https://github.com/orgs/luxdefi/projects/1/views/2)
 - [Tasks](https://github.com/orgs/luxdefi/projects/1/views/1)
 - [Roadmap](https://github.com/orgs/luxdefi/projects/1/views/4)
