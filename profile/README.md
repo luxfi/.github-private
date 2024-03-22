@@ -1,11 +1,10 @@
 <h3>
-  <p align="center"><h1>
+  <p align="center">
     ▼
-  </h1>
   </p>
-  <p align="center"><h1>
+  <p align="center">
     Increasing economic freedom through privacy and quantum security.
-  </h1></p>
+  </p>
 </h3>
 
 🌈 Get involved by participating in development, [provide feedback and suggestions](mailto:hi@lux.partners), or contribute to our [open source projects](https://github.com/luxdefi/):
