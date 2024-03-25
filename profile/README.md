@@ -3,7 +3,7 @@
     ▼
   </p>
   <p align="center">
-    Network of blockchains designed for privacy and quantum security.
+    Military-grade, decentralized network of blockchains built without compromise for freedom, privacy, and quantum security.
   </p>
 </h3>
 
