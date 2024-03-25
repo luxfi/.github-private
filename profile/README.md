@@ -3,7 +3,7 @@
     ▼
   </p>
   <p align="center">
-    Military-grade, decentralized network of blockchains built without compromise for freedom, privacy, and quantum security.
+    Decentralized network of blockchains built without compromise for privacy and quantum security.
   </p>
 </h3>
 
