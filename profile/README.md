@@ -3,7 +3,7 @@
     ▼
   </p>
   <p align="center">
-    Decentralized network of blockchains designed for privacy and quantum security.
+    Decentralized ecosystem of products designed for privacy and quantum security.
   </p>
 </h3>
 
